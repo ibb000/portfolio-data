@@ -1,5 +1,5 @@
 {
-  "name": "Abdulrhman Alaa ",
+  "name": "Abdulrhman Alaa tawifk",
   "title": "Art Director & Creative Designer",
   "location": "Giza, Egypt 🇪🇬",
   "currentRole": "Art Director @ Masar",
