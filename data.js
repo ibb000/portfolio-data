@@ -1,5 +1,5 @@
 {
-  "name": "Abdulrhman Alaa ",
+  "name": "Abdulrhman Alaa",
   "title": "Art Director & Creative Designer",
   "location": "Giza, Egypt 🇪🇬",
   "currentRole": "Art Director @ Masar",
@@ -26,7 +26,7 @@
     },
     {
       "num": "99+",
-      "label": "Various Project Completed "
+      "label": "Various Project Completed"
     }
   ],
   "skills": [
@@ -118,7 +118,7 @@
     },
     {
       "period": "Jul 2025 — Jun 2025",
-      "role": "Marketing Manager ",
+      "role": "Marketing Manager",
       "company": "Brand Go",
       "badge": "",
       "badgeLabel": ""
@@ -144,7 +144,7 @@
     },
     {
       "period": "Dec 2024 — Jan 2025",
-      "role": "Graphics Design Instructor ",
+      "role": "Graphics Design Instructor",
       "company": "ArcPlan",
       "badge": "",
       "badgeLabel": ""
@@ -170,20 +170,20 @@
     {
       "period": "Jan 2022 — Jul 2023",
       "role": "Senior Designer",
-      "company": "Hauni Design House ",
+      "company": "Hauni Design House",
       "badge": "",
       "badgeLabel": ""
     },
     {
-      "period": "Jan 2021 — Jan 2022 ",
+      "period": "Jan 2021 — Jan 2022",
       "role": "Junior Artist (part time)",
-      "company": "Hauni Design House ",
+      "company": "Hauni Design House",
       "badge": "",
       "badgeLabel": ""
     },
     {
       "period": "Jul 2018 — Jan 2021",
-      "role": "Freelance Graphics designer ",
+      "role": "Freelance Graphics Designer",
       "company": "",
       "badge": "",
       "badgeLabel": ""
@@ -192,10 +192,10 @@
   "education": [
     {
       "period": "Oct 2025 — Present",
-      "role": "MSc  · Master Degree in Information Systems ",
+      "role": "MSc · Master Degree in Information Systems",
       "company": "Fayoum University",
       "badge": "current",
-      "badgeLabel": "Master Degree Student "
+      "badgeLabel": "Master Degree Student"
     },
     {
       "period": "Sep 2020 — Jun 2024",
@@ -237,23 +237,23 @@
   ],
   "certifications": [
     {
+      "imgSrc": "https://i.ibb.co/Zp5Zm44p/AI-Enhanced-Design-Techniques-webp.webp",
       "title": "AI-Enhanced Design Techniques: Graphics, UI/UX & Video",
       "issuer": "Oxford Home Study",
       "date": "Mar 2026",
-      "imgSrc": "https://i.ibb.co/Zp5Zm44p/AI-Enhanced-Design-Techniques-webp.webp",
       "link": ""
     },
     {
-      "title": "Introduction To Digital Character Design ",
-      "issuer": "Ailson Digital Courses ",
-      "date": "Aug 2025",
       "imgSrc": "https://i.ibb.co/hRjz6LhQ/1754428585575-webp.webp",
+      "title": "Introduction To Digital Character Design",
+      "issuer": "Ailson Digital Courses",
+      "date": "Aug 2025",
       "link": ""
     },
     {
       "imgSrc": "https://i.ibb.co/C3jMkYF8/1750954159893-webp.webp",
       "title": "People-Centred Designing",
-      "issuer": "The Open University  ·  UK",
+      "issuer": "The Open University · UK",
       "date": "Jun 2025",
       "link": ""
     },
@@ -265,15 +265,15 @@
       "link": ""
     },
     {
-      "title": "UI/UX Design Diploma",
-      "issuer": "Route IT Training Center ",
-      "date": "May 2025",
       "imgSrc": "https://i.ibb.co/Q3kq3yZR/1747572680378-webp.webp",
+      "title": "UI/UX Design Diploma",
+      "issuer": "Route IT Training Center",
+      "date": "May 2025",
       "link": ""
     },
     {
       "imgSrc": "https://i.ibb.co/VpcSSmgf/Whats-App-Image-2026-03-15-at-1-21-13-PM-3-webp.webp",
-      "title": "Creative Designing Diploma ",
+      "title": "Creative Designing Diploma",
       "issuer": "American University in Cairo",
       "date": "Oct 2024",
       "link": ""
@@ -338,12 +338,13 @@
   },
   "projects": [
     {
-      "label": "Masar Website <br> & E-commerce ",
+      "label": "Masar Website\n& E-commerce",
       "gradient": "pt8",
-      "cat": "Web Development · E-commerce · UI/UX · Dashboard  ",
+      "cat": "Web Development · E-commerce · UI/UX · Dashboard",
       "name": "Masar Website",
-      "desc": "Fully build working website , responsive in every device and e-commerce inventory linked with a dashboard previewed in the link",
-      "link": "https://masarrealestate.com/"
+      "desc": "Fully build working website, responsive in every device and e-commerce inventory linked with a dashboard.",
+      "link": "https://masarrealestate.com/",
+      "coverImg": ""
     },
     {
       "label": "STORY\nLINGO",
@@ -351,7 +352,8 @@
       "cat": "Branding · UI · App",
       "name": "StoryLingo Learning App",
       "desc": "Full brand identity, mascot design, color palette & UI style. Live on Google Play.",
-      "link": "https://www.behance.net/gallery/227018097/Storylingo-Learning-app-branding"
+      "link": "https://www.behance.net/gallery/227018097/Storylingo-Learning-app-branding",
+      "coverImg": ""
     },
     {
       "label": "GENIE\nSTUDIO",
@@ -359,7 +361,8 @@
       "cat": "Rebranding · Identity",
       "name": "Genie Studio Rebranding",
       "desc": "Complete visual identity overhaul for a creative studio.",
-      "link": "https://www.behance.net/gallery/236725941/Genie-Studio-Rebranding"
+      "link": "https://www.behance.net/gallery/236725941/Genie-Studio-Rebranding",
+      "coverImg": ""
     },
     {
       "label": "DENTAL\nCARE",
@@ -367,7 +370,8 @@
       "cat": "Social Media · Branding",
       "name": "Dental Care Corp",
       "desc": "Social media folio and visual direction as Junior Art Director.",
-      "link": "https://www.behance.net/gallery/229223247/Dental-Care-social-media-folio"
+      "link": "https://www.behance.net/gallery/229223247/Dental-Care-social-media-folio",
+      "coverImg": ""
     },
     {
       "label": "MASAR",
@@ -375,7 +379,8 @@
       "cat": "Art Direction · Campaigns",
       "name": "Masar Real Estate",
       "desc": "Brand touchpoints, podcast visuals, websites & marketing campaigns.",
-      "link": ""
+      "link": "",
+      "coverImg": ""
     },
     {
       "label": "IEEE\nMUST",
@@ -383,7 +388,8 @@
       "cat": "Branding · Events",
       "name": "IEEE MUST SB",
       "desc": "Led visual branding across events, trained designers, established brand guidelines.",
-      "link": ""
+      "link": "",
+      "coverImg": ""
     },
     {
       "label": "EL\nBROKER",
@@ -391,15 +397,17 @@
       "cat": "Visual Branding · Podcast",
       "name": "El-Broker Podcast",
       "desc": "Complete visual brand identity for a podcast series.",
-      "link": "https://www.behance.net/gallery/240281443/EL-BROKER-Podcast-Visual-Branding"
+      "link": "https://www.behance.net/gallery/240281443/EL-BROKER-Podcast-Visual-Branding",
+      "coverImg": ""
     },
     {
       "label": "More to come",
       "gradient": "pt2",
-      "cat": "Under Development ",
+      "cat": "Under Development",
       "name": "More to come",
-      "desc": "Projects section still under Development  ",
-      "link": ""
+      "desc": "Projects section still under development.",
+      "link": "",
+      "coverImg": ""
     }
   ]
 }
