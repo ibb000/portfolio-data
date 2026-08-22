@@ -205,6 +205,13 @@
       "badgeLabel": "Master Degree Student"
     },
     {
+      "period": "June 2024 —  Oct 2024",
+      "role": "Dip. · Creative Designing Tools",
+      "company": "American University in Egypt",
+      "badge": "",
+      "badgeLabel": ""
+    },
+    {
       "period": "Sep 2020 — Jun 2024",
       "role": "BSc Computer Science & Info Systems",
       "company": "October Sixth University",
