@@ -110,10 +110,17 @@
   ],
   "experience": [
     {
-      "period": "Aug 2025 — Present",
-      "role": "Art Director",
+      "period": "May 2026 — Present ",
+      "role": "Marketing Manager",
       "company": "Masar Real Estate",
       "badge": "current",
+      "badgeLabel": "Current Role"
+    },
+    {
+      "period": "Aug 2025 —Apr 2026",
+      "role": "Art Director",
+      "company": "Masar Real Estate",
+      "badge": "",
       "badgeLabel": "Current Role"
     },
     {
