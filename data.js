@@ -2,7 +2,7 @@
   "name": "Abdulrhman Alaa",
   "title": "Art Director & Creative Designer",
   "location": "Giza, Egypt 🇪🇬",
-  "currentRole": "Art Director @ Masar",
+  "currentRole": "Marketing Manager @ Masar",
   "email": "hello@abdulalaa.me",
   "phone": "+20 104 487 4432",
   "behance": "https://be.net/abdulrhmn",
@@ -10,7 +10,7 @@
   "heroQuote": "Design is thinking made visual.",
   "heroBio": "I'm Abdulrahman Alaa — an Art Director based in Giza, Egypt. I craft brand identities, design systems, web experiences, and visual narratives that leave a mark.",
   "aboutBio1": "I'm a multi-disciplinary creative with 8+ years of experience turning complex ideas into bold visual systems. From brand identity and UI/UX to web development and art direction — I bridge the gap between strategy and aesthetics, always putting impact first.",
-  "aboutBio2": "Currently Art Director at Masar Real Estate, where I lead the visual direction across all brand touchpoints. I also mentor upcoming designers and love building things that last.",
+  "aboutBio2": "Currently Marketing Manager at Masar Real Estate, where I lead the marketing direction across all brand touchpoints, from local and international partnerships to outsourced campaigns, lead generation, and marketing operations. I also mentor upcoming designers and love building brands, systems, and ideas that last.\n",
   "stats": [
     {
       "num": "8+",
