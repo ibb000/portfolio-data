@@ -3,7 +3,7 @@
   "title": "Art Director & Creative Designer",
   "location": "Giza, Egypt 🇪🇬",
   "currentRole": "Art Director @ Masar",
-  "email": "abdulrhmanalaat@gmail.com",
+  "email": "hello@abdulalaa.me",
   "phone": "+20 104 487 4432",
   "behance": "https://be.net/abdulrhmn",
   "linkedin": "https://www.linkedin.com/in/abdurhman-alaa",
